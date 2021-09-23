@@ -14,3 +14,6 @@ If the remainder after performing division on message bits recieved with actual 
 # User Inputs in GUI
 Actual bits is the original data bits of the message that is to be sent.
 CRC polynomial is the polynomial that is to be used to calculate remainder bits in order to protect actual message from errors.
+
+# Message Sent
+It shows the bits(Data+CRC) that is sent by sender.
